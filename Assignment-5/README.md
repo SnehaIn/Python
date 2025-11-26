@@ -1,6 +1,6 @@
 # Campus Energy Consumption Dashboard
 
-**Author:** Harsh Dabas  
+**Author:** Sneha Joshi  
 **Course:** Programming for Problem Solving using Python  
 **Assignment:** Capstone Project - End-to-End Energy Consumption Analysis
 
@@ -56,4 +56,5 @@ campus-energy-dashboard-HarshDabas/
 ├── data/                   # Raw CSV files
 ├── output/                 # Generated reports and images
 ├── main.py                 # Source code (Ingestion, OOP, Viz)
+
 └── README.md               # Project documentation
